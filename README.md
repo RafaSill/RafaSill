@@ -55,6 +55,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, apaixonado
 
 ## 📌 Meus Projetos em Destaque
 
-- **[PI-03](https://github.com/RafaSill/seu-repo)** - Sistema de Streaming de Filmes
-- 
+- **[PI-03](https://github.com/RafaSill/Cinemix_refatorado)** - Sistema de Streaming de Filmes
+- **[PI-03 Versão WEB](https://github.com/RafaSill/Cinemix-Web)** - Sistema de Streaming de Filmes
 
