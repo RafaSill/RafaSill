@@ -51,7 +51,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, apaixonado
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaSilla&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
----
 
 ## 📌 Meus Projetos em Destaque
 
