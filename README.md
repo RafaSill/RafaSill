@@ -42,18 +42,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac, apaixonado
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaSill&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaSill&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSill&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&border_color=30363d)](https://github.com/RafaSill)
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaSill&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&rank_icon=github)](https://github.com/RafaSill)
+  
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=RafaSill&theme=dark&hide_border=true&background=0d1117)](https://github.com/RafaSill)
 
-## 📌 Meus Projetos em Destaque
+</div>
 
-- **[PI-03](https://github.com/RafaSill/Cinemix_refatorado)** - Sistema de Streaming de Filmes
-- **[PI-03 Versão WEB](https://github.com/RafaSill/Cinemix-Web)** - Sistema de Streaming de Filmes
 
